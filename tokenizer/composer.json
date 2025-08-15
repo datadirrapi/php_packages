@@ -1,0 +1,23 @@
+{
+    "name": "datadirr/tokenizer",
+    "description": "A PHP library for token utilities.",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Datadirr\\Tokenizer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "datadirr",
+            "email": "datadirr@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0"
+    }
+}
