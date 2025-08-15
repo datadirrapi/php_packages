@@ -2,11 +2,11 @@
 
 namespace Datadirr\Encrypter;
 
+use Exception;
+
 // A constant for the default secret key.
 // In a production environment, this should ideally be loaded from environment variables
 // and never hardcoded.
-use Exception;
-
 const DEFAULT_KEY = "@data@dirr@data@dirr@data@dirr@@";
 
 /**
