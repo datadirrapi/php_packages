@@ -1,3 +1,4 @@
 composer init
+composer clear-cache
 composer install | update (if another packages used)
 composer dump-autoload
