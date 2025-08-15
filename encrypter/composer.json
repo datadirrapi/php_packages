@@ -1,0 +1,22 @@
+{
+    "name": "datadirr/encrypter",
+    "description": "A PHP library for encryption and hashing utilities.",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Datadirr\\Encrypter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "datadirr",
+            "email": "datadirr@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0"
+    }
+}
