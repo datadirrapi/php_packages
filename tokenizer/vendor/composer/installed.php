@@ -10,6 +10,15 @@
         'dev' => true,
     ),
     'versions' => array(
+        'datadirr/encrypter' => array(
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'reference' => null,
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../datadirr/encrypter',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'datadirr/tokenizer' => array(
             'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',

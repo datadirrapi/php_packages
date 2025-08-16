@@ -2,7 +2,7 @@
 
 namespace Datadirr\Tokenizer;
 
-use Encrypter;
+use Datadirr\Encrypter\Encrypter;
 use Exception;
 
 /**

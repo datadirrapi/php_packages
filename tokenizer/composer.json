@@ -18,6 +18,20 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0"
-    }
+        "php": ">=8.0",
+        "datadirr/encrypter": "1.0.0"
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "datadirr/encrypter",
+                "version": "1.0.0",
+                "dist": {
+                    "url": "https://package.datadirr.com/php/encrypter-1.0.0.zip",
+                    "type": "zip"
+                }
+            }
+        }
+    ]
 }

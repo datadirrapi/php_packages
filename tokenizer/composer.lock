@@ -4,8 +4,18 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "72510c279eadf1dffcf9f0c6f5b66ec0",
-    "packages": [],
+    "content-hash": "8bd386c1c7df77ce93c6db6967822ad8",
+    "packages": [
+        {
+            "name": "datadirr/encrypter",
+            "version": "1.0.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://package.datadirr.com/php/encrypter-1.0.0.zip"
+            },
+            "type": "library"
+        }
+    ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
